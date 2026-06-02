@@ -28,3 +28,6 @@ target/
 
 # Test data file
 test-buses.txt
+
+# macOS system files
+.DS_Store
