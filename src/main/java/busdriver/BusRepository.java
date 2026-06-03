@@ -4,8 +4,8 @@ import java.io.*;
 import java.util.ArrayList;
 
 /**
- * Stores buses in a simple TXT file.
- * Has add, retrieve, update and count.
+ * Stores buses in a simple TXT file
+ * Has add, retrieve, update and count
  */
 public class BusRepository {
 
