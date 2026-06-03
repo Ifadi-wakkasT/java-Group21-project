@@ -23,6 +23,15 @@
             <version>5.10.2</version>
             <scope>test</scope>
         </dependency>
+
+
+
+        <!-- Gson library for JSON handling -->
+        <dependency>
+            <groupId>com.google.code.gson</groupId>
+            <artifactId>gson</artifactId>
+            <version>2.10.1</version>
+        </dependency>
     </dependencies>
 
     <build>
